@@ -1,0 +1,13 @@
+name = "Create With"
+author = "hothod2nd"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "74cd00263dae39f3ee86f7bd04ee324394d6c548c2a6b5ac3f2dcf85c9aa58d1"
+
+[versions]
+forge = "40.2.1"
+minecraft = "1.18.2"
