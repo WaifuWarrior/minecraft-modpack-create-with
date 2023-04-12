@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "manifest.json"
+hash = "e0a2ec1a80173d0fc2fb3906a947f530933a9a4ca1c0557ee3b6e5c32f294379"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "009d1f8a8fb42ae5efa8357eb1c1c47dda13ac29034b1e50890cc129a470913b"
 metafile = true
@@ -8,6 +12,16 @@ metafile = true
 [[files]]
 file = "mods/aiot-botania.pw.toml"
 hash = "2b179ff2750ab45e5c6f2800269af36d3e52ec33120e90ecef44699f18f15aed"
+metafile = true
+
+[[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas.pw.toml"
+hash = "ec653b08d4f6ecc9992d1e1cffa77a305b2878db1ab447cfb038cd5e601e8d0c"
 metafile = true
 
 [[files]]
@@ -56,8 +70,8 @@ hash = "90a98f89c7fd522c158b2ad7ac46a9370e4173fbc434f3e13d69dc9a3f7a243e"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "3f1897a6b66a96097ae508234437d41c2690f874c3e2dc6075e6ec59143210e8"
+file = "mods/cloth-config.pw.toml"
+hash = "a57e921f872596ca19e411d726b7f6db272267f2dd712322a3168ce0f404fd44"
 metafile = true
 
 [[files]]
@@ -71,8 +85,8 @@ hash = "63f1ab59061fb126cdabf39d74329ca1831e761b798c8aed0a79816c3874c04c"
 metafile = true
 
 [[files]]
-file = "mods/create-curios.pw.toml"
-hash = "5c3839736aa5e812ab497b2ffd4c8e09e1591dd02aedee39f7b00f5b5b1d0c95"
+file = "mods/corpse.pw.toml"
+hash = "4f4d1b11afed0ce9c7723f0e5d13806c195930583887cc8fcaa5682e48a6b08d"
 metafile = true
 
 [[files]]
@@ -146,6 +160,11 @@ hash = "3192433f940257c03b21f7c13cdf0af8195c797c08d3f762da5eaf102a061cbc"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
 metafile = true
@@ -196,8 +215,13 @@ hash = "5e817210ce0652cec8fd1b78b0b24c1a2d9b5a1f54fcd13b87aa2ec362fc7c4d"
 metafile = true
 
 [[files]]
-file = "mods/immersive-petroleum.pw.toml"
-hash = "eb085aa1680bb07e24c4b92fa5c72d56585a77803256d7b80bae34226aac6216"
+file = "mods/jade-addons.pw.toml"
+hash = "95bb4e5153dc7c86dce16e067fbd8ff2c5d510cadc14b0fa641afc20bea1f405"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "bfcaf25cd94492e855dfb7353dacb44ed1668b3f6d3d1705360e785ede84667a"
 metafile = true
 
 [[files]]
@@ -221,8 +245,8 @@ hash = "2100e99d7d9dae43f992b3c62ce88374414309b39f0526254ed826f686d3a1bb"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-tinkers-construct.pw.toml"
-hash = "4a5be73ac2c77b6dda180af6a69a67de8895cf233f84f6c9423fbff683cd44f4"
+file = "mods/kubejs-immersive-engineering.pw.toml"
+hash = "ec0ff13c5582c8e209b41f7573fafa41f31f6df074dbbaf859f5011bff9e2cd4"
 metafile = true
 
 [[files]]
@@ -243,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
 hash = "a2f162049ca146326010a2a500f59d3ee62264259af43274aba93da55a04cf08"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "280e57676080137109ba49ea3e4cc030955e139924a817e90fbcfe977adb8e7a"
 metafile = true
 
 [[files]]
@@ -283,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/polylib.pw.toml"
 hash = "dc5355c75b3a14c1d0735f6db571f07aae00ca531bdb471aebaf89addcda5a4e"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
 metafile = true
 
 [[files]]
@@ -331,6 +365,11 @@ hash = "03ee69b801ff5c5e357b876f7a97a9d9002c84460c366097ee5c337f4408fc7c"
 metafile = true
 
 [[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "a76c956d56c9d423875d63e1d0aaca00a0da4854edd28f64d96ddf6bf54fafdd"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
 metafile = true
@@ -338,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "59583b3b0263c1d2a6bd7210eef0bfaeadcbf6482e8c331f6b5a114dc976e3ca"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "7863c6ff5c8ee607d67b7f8065904f99a81903f983adc7dca35184e760358993"
 metafile = true
 
 [[files]]
@@ -353,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
 metafile = true
 
 [[files]]
